@@ -10,7 +10,7 @@
 
 \## High Priority
 
-* Finish Git assignment ASAP
+* Finish Git assignment Tonight
 * Submit Git Assignment
 * Clear the snow
 * Review missed lecture notes from NWE2 class
